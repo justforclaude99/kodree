@@ -1,6 +1,7 @@
 # Notes
 In CLAUDE.md, i put npm test run command to ensure healthy running.
-Added deny force-- push.
+
+In CLAUDE.md, I denied force push.
 
 Explanation of CLAUDE.md contents:
 I deliberately left out of CLAUDE.md npm run lint as it is not needed for this project.
