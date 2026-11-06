@@ -1,5 +1,5 @@
-# Notes
-in CLAUDE.md, i put npm test run command to ensure healthy running.
+## Notes
+In CLAUDE.md, i put npm test run command to ensure healthy running.
 Added deny force-- push.
 
 Explanation of CLAUDE.md contents:
