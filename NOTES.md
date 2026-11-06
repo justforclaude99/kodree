@@ -1,9 +1,10 @@
-## Notes
+# Notes
 In CLAUDE.md, i put npm test run command to ensure healthy running.
 Added deny force-- push.
 
 Explanation of CLAUDE.md contents:
 I deliberately left out of CLAUDE.md npm run lint as it is not needed for this project.
+I did not left out of CLAUDE.md npm run dev because thats where application is supposed to run.
 
 Consequence explanation of deny rule:
 Without force-push deny rule, an accidentally force pushing would cause significant impact on main branch and possibly on production environment if code is wrong.
