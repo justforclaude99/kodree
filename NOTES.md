@@ -6,6 +6,6 @@ Explanation of CLAUDE.md contents:
 I deliberately left out of CLAUDE.md npm run lint as it is not needed for this project.
 
 Consequence explanation of deny rule:
-without force-push deny rule, an accidentally force pushing would cause significant impact on main branch and possibly on production environment if code is wrong.
+Without force-push deny rule, an accidentally force pushing would cause significant impact on main branch and possibly on production environment if code is wrong.
 
 I verified /memory shows CLAUDE.md loaded and /permissions shows the rules.
