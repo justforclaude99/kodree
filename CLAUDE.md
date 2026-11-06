@@ -9,7 +9,6 @@ A small Express REST API (users + health check) backed by an in-memory store.
 - `npm run dev` — start the API with `node --watch` on `http://localhost:3000` (port from `PORT`)
 - `npm test` — run all tests with the built-in `node:test` runner
 - `node --test tests/users.test.js` — run one test file; add `--test-name-pattern="<name>"` to run a single test
-- `npm run lint` — ESLint (`eslint:recommended`); CI runs lint then tests on Node 22
 
 ## Conventions
 
